@@ -8,8 +8,8 @@
 		<version>2.6.3</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.algaworks.example</groupId>
-	<artifactId>algaworks-api-avaliacao</artifactId>
+	<groupId>com.example</groupId>
+	<artifactId>demo-api-avaliacao</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>API Avaliação</name>
 	<description>Spring Boot MVC Web Demo - Avaliacao API</description>
